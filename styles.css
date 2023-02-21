@@ -1,0 +1,24 @@
+body {
+    background-color: #b30000;
+    font-family: 'Otomanopee One', sans-serif;
+    color: #ff9900;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+
+}
+
+.img1 {
+    display: flex;
+    justify-content: center;
+}
